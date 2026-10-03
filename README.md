@@ -34,3 +34,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Tools in this app
+
+- `/` — **Showcase**: load any URL, watch it scroll fullscreen, record it.
+- `/brandboard` — **Brandboard**: compose a one-page brand board (identity, moodboard, colours, type, logo) for any company and record/screenshot it in clean view. Multiple boards live in a local library (new/copy/rename/delete, autosave, export/import JSON). Supports uploaded custom fonts (WOFF2/TTF/OTF, incl. variable), full weight/italic/size typography showcases, colour roles with a donut palette-split hierarchy demo (per-colour parts, 60/30/10 defaults), moodboard captions, and section reorder/visibility.
